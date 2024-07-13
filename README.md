@@ -7,7 +7,7 @@
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
 ## My name is Ian Thomas
-(React JS | Next JS | Angular  | Javascript | HTML | CSS | Typescript | Java | Spring Boot ) 🚀
+
 - 🎓 ADS Science Student
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
